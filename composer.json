@@ -1,0 +1,6 @@
+{
+    "name": "k1sul1/shortcode-html-wrappers",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "require": {}
+}
